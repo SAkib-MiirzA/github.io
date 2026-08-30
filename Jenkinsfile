@@ -10,8 +10,8 @@ pipeline {
     agent any
 
     environment {
-        GITHUB_HTTPS = "github-https"
-        GITHUB_SSH   = "github-ssh"
+        GITHUB_HTTPS = "sakib-github-https"
+        GITHUB_SSH   = "sakib-github-ssh"
 
         GITLAB_HTTPS = "gitlab-https"
         GITLAB_SSH   = "gitlab-ssh"
